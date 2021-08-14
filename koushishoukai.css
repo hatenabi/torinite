@@ -33,6 +33,10 @@
         text-align: center;
         line-height: 30px;
     }
+    footer img{
+        width: 20px;
+        height: 20px;
+    }    
 }
 @media screen and (min-width: 601px){
     body{
